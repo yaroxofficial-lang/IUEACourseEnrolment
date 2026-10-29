@@ -32,4 +32,8 @@ public class Course {
 
         System.out.println("Pass percentage: " + percentage + "%");
     }
+
+    public void displayCourseName() {
+        System.out.println("Course name: " + courseName);
+    }
 }
