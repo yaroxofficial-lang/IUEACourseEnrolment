@@ -32,4 +32,9 @@ public class Course {
 
         System.out.println("Pass percentage: " + percentage + "%");
     }
+
+    public static void displayUniversityTotal() {
+        System.out.println("Total university enrolment: "
+                + totalStudents);
+    }
 }
