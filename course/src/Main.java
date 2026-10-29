@@ -22,4 +22,6 @@ public class Main {
         System.out.println("Total registered students: "
                 + Course.totalStudents);
     }
+
+    java.displayCourseName();
 }
